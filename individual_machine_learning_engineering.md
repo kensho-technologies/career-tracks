@@ -276,7 +276,7 @@
 | **Operational Capacity** | Works on significant and unique issues where analysis of situations or data requires an evaluation of intangibles that is critical to the strategic planning and execution of important business processes.  |
 | **Collaboration Sphere** | Creates formal networks involving coordination among groups and builds mostly strategic relationships with peers and company leadership. |
 | **Conflict Resolution** | Addresses and resolves/diffuses conflict proactively, before escalation is required. Attuned at identifying conflict within own team; aids in resolving/diffusing promptly, professionally.  |
-| **Self-Development** | Demonstrative ability to take on responsibilities outside their immediate area of focus. Consistently creates opportunities to challenge themselves in new ways.  |
+| **Self-Development** | Demonstrates ability to take on responsibilities outside their immediate area of focus. Consistently creates opportunities to challenge themselves in new ways.  |
 | **Adaptability** | Consistently reframes obstacles as opportunities. Solicits input from teams on ideas for mitigating obstacles and change. Seeks to understand historical decisions to avoid repeating mistakes and/or reassess decisions. |
 | **Judgement** | Exercises sound, independent judgement in all things, especially with methods, techniques and evaluation criteria for obtaining results. Work/business-related decisions often reflect the notion of putting company before self.  |
 | **General Problem Solving** | Having broad expertise or unique knowledge, uses skills to contribute to development of company objectives and principles and to achieve goals in creative and effective ways. |

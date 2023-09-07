@@ -19,7 +19,7 @@
  |  |  |
  | --- | --- |
  | **Technical Knowledge** | Has a solid foundation in ML/NLP, including a working knowledge of older, non-neural approaches. Occassionally needs to consult resources for some fundamental concepts (e.g., MLE, PyTorch documentation, loss functions).|
- | **Technical Problem Solving** | Can diagnose and fix common issues regarding ML problems and concepts; however, needs assistance and direction when results aren't progressing for weeks. Often relies on mentors and other teammembers to help unblock. Needs some supervision to ensure the work is soundly executed.|
+ | **Technical Problem Solving** | Can diagnose and fix common issues regarding ML problems and concepts; however, needs assistance and direction when results aren't progressing for weeks. Often relies on mentors and other team members to help unblock. Needs some supervision to ensure the work is soundly executed.|
  | **Research Knowledge** | Has a limited understanding of the research literature; is familiar with a few seminal papers in the past ~3 years and popular tasks but lacks breadth, depth, and historical awareness.|
 | **Research Abilities** | Is generally familiar with the process of conducting novel research but needs assistance in identifying problems and approaches. Often needs guidance in balancing time spent on reading papers, brainstorming novel research ideas, writing code, and running experiments. |
  | **Research Writing** | Has limited experience publishing papers (e.g., 1-2 first-author papers). Can write sections of a paper that concerns their work but needs assistance in crafting the narrative and phrasing the paper in the style of a strong research paper. | 
@@ -85,7 +85,7 @@
  | **Technical Knowledge** | Has a strong foundation in ML/NLP, spanning traditional and modern approaches. Generally doesn't need to rely on external resources for common ML knowledge and can meaningfully discuss important ML/NLP concepts. Stays aware of some of the latest developments (e.g., PyTorch, libraries, new models or platforms).|
  | **Technical Problem Solving** | Can diagnose and fix most issues regarding ML problems, while occasionally relying on others to help diagnose issues and provide feedback on how to unblock. Can be generally trusted that the work was soundly executed without much help or guidance. For thoroughness, we will still double-check one's work and ask them for intricate details.|
  | **Research Knowledge** | Has a solid understanding of modern literature, including a working knowledge of some key works from 5-10 years ago. That is, has moderate amount research knowledge in terms of breadth and depth.|
-| **Research Abilities** | s familiar and comfortable with the process of conducting novel research and needs little assistance in identifying problems and potential approaches. Needs some assistance and feedback in balancing time spent on reading papers, brainstorming novel research ideas, writing code, and running experiments|
+| **Research Abilities** | Is familiar and comfortable with the process of conducting novel research and needs little assistance in identifying problems and potential approaches. Needs some assistance and feedback in balancing time spent on reading papers, brainstorming novel research ideas, writing code, and running experiments|
  | **Research Writing** | Has solid experience publishing papers (e.g., 3-6 first author papers in top-tier conferences). Can write the majority of a paper with a moderately clear narrative; however, greatly benefits from having feedback and edits. | 
  | **Modeling/Coding** | Can write effective, efficient ML code in PyTorch. Can develop and implement novel architectures without much difficulty. Runs sound, useful experiments and can make adjustments while minimally relying on others for suggestions. Asks others for help and feedback but usually not out of reliance; that is, can generally unblock oneself.| 
 
@@ -96,8 +96,8 @@
 ###### [Jump to top](#main)
 | | | 
 | -- | -- |
- | **Intellectual Curiosity** | Exercises curiosity in all things; encourages peers to seek anrsrs. Demonstrates strong understanding of company and engineering philosophy and principles. Provides evidence and counter proposals to support ideas. |
-| **Innovation** | Takes appropriate amount of risk and tries new ways of doing old things. Learning to be comfortable with failure and seeks to learn from it. Shares lessons with peers and teammates.  |
+ | **Intellectual Curiosity** | Exercises curiosity in all things; encourages peers to seek answers. Demonstrates strong understanding of company and engineering philosophy and principles. Provides evidence and counter proposals to support ideas. |
+| **Innovation** | Takes appropriate amount of risk and tries new ways of doing old things. Is learning to be comfortable with failure and seeks to learn from it. Shares lessons with peers and teammates.  |
 | **Decision Scope** | Independently determines completion path of own daily tasks and projects.  |
 | **Operational Capacity** | Supports the tactical initiatives for the relative area; seeks opportunities to lead certain initiatives.  |
 | **Collaboration Sphere** | Builds productive internal/external working relationships with department and functional leadership.   |
@@ -275,7 +275,7 @@
 | **Operational Capacity** | Works on significant and unique issues where analysis of situations or data requires an evaluation of intangibles that is critical to the strategic planning and execution of important business processes.  |
 | **Collaboration Sphere** | Creates formal networks involving coordination among groups and builds mostly strategic relationships with peers and company leadership. |
 | **Conflict Resolution** | Addresses and resolves/diffuses conflict proactively, before escalation is required. Attuned at identifying conflict within own team; aids in resolving/diffusing promptly, professionally.  |
-| **Self-Development** | Demonstrative ability to take on responsibilities outside their immediate area of focus. Consistently creates opportunities to challenge themselves in new ways.  |
+| **Self-Development** | Demonstrates ability to take on responsibilities outside their immediate area of focus. Consistently creates opportunities to challenge themselves in new ways.  |
 | **Adaptability** | Consistently reframes obstacles as opportunities. Solicits input from teams on ideas for mitigating obstacles and change. Seeks to understand historical decisions to avoid repeating mistakes and/or reassess decisions. |
 | **Judgement** | Exercises sound, independent judgement in all things, especially with methods, techniques and evaluation criteria for obtaining results. Work/business-related decisions often reflect the notion of putting company before self.  |
 | **General Problem Solving** | Having broad expertise or unique knowledge, uses skills to contribute to development of company objectives and principles and to achieve goals in creative and effective ways. |
