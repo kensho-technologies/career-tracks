@@ -1,7 +1,7 @@
 <a name="main"></a>
 # Kensho - Individual Contributor - Research Scientist
-|  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | -- |
+|  |  |  |  |  |  |  
+| --- | --- | --- | --- | --- | --- |
 | Technical Excellence <ul><li>Tools and Tech</li><li>Technical Problem Solving</li><li>Research Knowledge</li><li>Research Abilities</li><li>Research Writing</li><li>Modeling/Coding</li></ul> | [Research Scientist I](#rs1_techexc) | [Research Scientist II ](#rs2_techexc)  | [Senior Research Scientist I](#srs1_techexc) | [Senior Research Scientist II](#srs2_techexc)  | [Staff Research Scientist](#staff_techexc) | 
 | Leadership <ul><li>Intellectual Curiosity</li><li>Innovation</li><li>Decision Scope</li><li>Operational Capacity</li><li>Collaboration Sphere</li><li>Conflict Resolution</li><li>Self-Development</li><li>Adaptability</li><li>Judgement</li><li>General Problem Solving</li></ul>| [Research Scientist I](#rs1_leadership) | [Research Scientist II ](#rs2_leadership) | [Senior Research Scientist I](#srs1_leadership) | [Senior Research Scientist II](#srs2_leadership) | [Staff Research Scientist](#staff_leadership) | 
 | Autonomy<ul><li>Bias to Action</li><li>Influence on Work</li><li>Resourcefulness</li><li>Delegation</li><li>Prioritization</li></ul>| [Research Scientist I](#rs1_autonomy) | [Research Scientist II ](#rs2_autonomy)  | [Senior Research Scientist I](#srs1_autonomy)  | [Senior Research Scientist II](#srs2_autonomy)  | [Staff Research Scientist](#staff_autonomy)  | 
