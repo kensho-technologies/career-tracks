@@ -19,9 +19,9 @@ A career track (also referred to as a job family) groups competencies, skills, a
 Tracks listed A-Z:
  - [Individual Contributor - Machine Learning Engineering](individual_machine_learning_engineering.md)
  - [Individual Contributor - Research Scientist](individual_research_scientist.md)
- - [Individual Contributor - Software Engineering](individual_software_engineering.md)
  - [Individual Contributor - Site Reliability Engineering](individual_site_reliability_engineering.md)
- - [People Leader - Engineering](people_leader_engineering.md)
+ - [Individual Contributor - Software Engineering](individual_software_engineering.md)
+- [People Leader - Engineering](people_leader_engineering.md)
  
  Coming soon: 
  - Individual Contributor - Applied Scientist
