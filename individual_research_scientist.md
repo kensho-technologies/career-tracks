@@ -1,33 +1,34 @@
 <a name="main"></a>
-# Kensho - Individual Contributor - Software Engineering
-|  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | -- |
-| Technical Excellence <ul><li>Tools and Tech</li><li>Technical Problem Solving</li><li>Architecture</li><li>Implementation and Forethought</li><li>Code/Design Review</li><li>Debugging</li></ul> | [Software Engineer I](#swe1_techexc) | [Software Engineer II ](#swe2_techexc)  | [Senior Software Engineer I](#sse1_techexc) | [Senior Software Engineer II](#sse2_techexc)  | [Staff Software Engineer](#staff_techexc) | [Principal Software Engineer](#principal_techexc)  |
-| Leadership <ul><li>Intellectual Curiosity</li><li>Innovation</li><li>Decision Scope</li><li>Operational Capacity</li><li>Collaboration Sphere</li><li>Conflict Resolution</li><li>Self-Development</li><li>Adaptability</li><li>Judgement</li><li>General Problem Solving</li></ul>| [Software Engineer I](#swe1_leadership) | [Software Engineer II ](#swe2_leadership) | [Senior Software Engineer I](#sse1_leadership) | [Senior Software Engineer II](#sse2_leadership) | [Staff Software Engineer](#staff_leadership) | [Principal Software Engineer](#principal_leadership)| 
-| Autonomy<ul><li>Bias to Action</li><li>Influence on Work</li><li>Resourcefulness</li><li>Delegation</li><li>Prioritization</li></ul>| [Software Engineer I](#swe1_autonomy) | [Software Engineer II ](#swe2_autonomy)  | [Senior Software Engineer I](#sse1_autonomy)  | [Senior Software Engineer II](#sse2_autonomy)  | [Staff Software Engineer](#staff_autonomy)  | [Principal Software Engineer](#principal_autonomy)  |
-| Teamwork <ul><li>Feedback</li><li>Communication</li><li>Participation</li><li>Go Team</li></ul> | [Software Engineer I](#swe1_teamwork) | [Software Engineer II ](#swe2_teamwork) | [Senior Software Engineer I](#sse1_teamwork) | [Senior Software Engineer II](#sse2_teamwork) | [Staff Software Engineer](#staff_teamwork) | [Principal Software Engineer](#principal_teamwork) |
+# Kensho - Individual Contributor - Research Scientist
+|  |  |  |  |  |  |  
+| --- | --- | --- | --- | --- | --- |
+| Technical Excellence <ul><li>Tools and Tech</li><li>Technical Problem Solving</li><li>Research Knowledge</li><li>Research Abilities</li><li>Research Writing</li><li>Modeling/Coding</li></ul> | [Research Scientist I](#rs1_techexc) | [Research Scientist II ](#rs2_techexc)  | [Senior Research Scientist I](#srs1_techexc) | [Senior Research Scientist II](#srs2_techexc)  | [Staff Research Scientist](#staff_techexc) | 
+| Leadership <ul><li>Intellectual Curiosity</li><li>Innovation</li><li>Decision Scope</li><li>Operational Capacity</li><li>Collaboration Sphere</li><li>Conflict Resolution</li><li>Self-Development</li><li>Adaptability</li><li>Judgement</li><li>General Problem Solving</li></ul>| [Research Scientist I](#rs1_leadership) | [Research Scientist II ](#rs2_leadership) | [Senior Research Scientist I](#srs1_leadership) | [Senior Research Scientist II](#srs2_leadership) | [Staff Research Scientist](#staff_leadership) | 
+| Autonomy<ul><li>Bias to Action</li><li>Influence on Work</li><li>Resourcefulness</li><li>Delegation</li><li>Prioritization</li></ul>| [Research Scientist I](#rs1_autonomy) | [Research Scientist II ](#rs2_autonomy)  | [Senior Research Scientist I](#srs1_autonomy)  | [Senior Research Scientist II](#srs2_autonomy)  | [Staff Research Scientist](#staff_autonomy)  | 
+| Teamwork <ul><li>Feedback</li><li>Communication</li><li>Participation</li><li>Go Team</li></ul> | [Research Scientist I](#rs1_teamwork) | [Research Scientist II ](#rs2_teamwork) | [Senior Research Scientist I](#srs1_teamwork) | [Senior Research Scientist II](#srs2_teamwork) | [Staff Research Scientist](#staff_teamwork) | 
 
 
-<a name="swe1"></a>
-## Software Engineer I
+<a name="rs1"></a>
+## Research Scientist I
 
 
-<a name="swe1_techexc"></a>
+<a name="rs1_techexc"></a>
 ### Technical Excellence
 ###### [Jump to top](#main)
  
  |  |  |
  | --- | --- |
- | **Tools and Tech** | Understands most processes and principles and is familiar with the essential technologies for their work (e.g. git, JavaScript, python, etc.); relies on reference documentation as needed to develop their understanding of core technologies.|
- | **Technical Problem Solving** | Independently develops well-scoped features requiring a single deploy. |
- | **Implementation and Forethought** | Implementations perform as specified under typical conditions; observables (e.g. logs and metrics) capture concrete actions. |
-| **Code/Design Review** | Actively participates in own and teammates code and design reviews; responsive to comments and change requests in a timely manner. |
- | **Debugging** | Debugs reproducible issues in their own code with full context. | 
+ | **Technical Knowledge** | Has a solid foundation in ML/NLP, including a working knowledge of older, non-neural approaches. Occassionally needs to consult resources for some fundamental concepts (e.g., MLE, PyTorch documentation, loss functions).|
+ | **Technical Problem Solving** | Can diagnose and fix common issues regarding ML problems and concepts; however, needs assistance and direction when results aren't progressing for weeks. Often relies on mentors and other team members to help unblock. Needs some supervision to ensure the work is soundly executed.|
+ | **Research Knowledge** | Has a limited understanding of the research literature; is familiar with a few seminal papers in the past ~3 years and popular tasks but lacks breadth, depth, and historical awareness.|
+| **Research Abilities** | Is generally familiar with the process of conducting novel research but needs assistance in identifying problems and approaches. Often needs guidance in balancing time spent on reading papers, brainstorming novel research ideas, writing code, and running experiments. |
+ | **Research Writing** | Has limited experience publishing papers (e.g., 1-2 first-author papers). Can write sections of a paper that concerns their work but needs assistance in crafting the narrative and phrasing the paper in the style of a strong research paper. | 
+ | **Modeling/Coding** | Can comfortably write ML code in PyTorch and run sound experiments. Occassionally (once every 1-2 weeks) relies on others for help in debugging tricky code. Has limited ability in brainstorming and implementing novel architectures. | 
 
 
 
 
-<a name="swe1_leadership"></a>
+<a name="rs1_leadership"></a>
 ### Leadership
 ###### [Jump to top](#main)
 | | | 
@@ -45,7 +46,7 @@
 
 
 
-<a name="swe1_autonomy"></a>
+<a name="rs1_autonomy"></a>
 ### Autonomy
 ###### [Jump to top](#main)
 | | | 
@@ -57,7 +58,7 @@
 | **Prioritization** | Priorities are usually determined by manager. |
 
 
-<a name="swe1_teamwork"></a>
+<a name="rs1_teamwork"></a>
 ### Teamwork
 ###### [Jump to top](#main)
 | | | 
@@ -73,30 +74,30 @@
 
 
 
-<a name="swe2"></a>
-## Software Engineer II
+<a name="rs2"></a>
+## Research Scientist II
 
-<a name="swe2_techexc"></a>
+<a name="rs2_techexc"></a>
 ### **Technical Excellence**
 ###### [Jump to top](#main)
 | | | 
 | -- | -- |
- | **Tools and Tech** | Experienced with essential technologies for their role; navigates familiar reference documentation efficiently to resolve uncertainties and share knowledge. Proficient with developer tools (e.g. IDE, shell) to increase workflow efficiency. |
-| **Technical Problem Solving** | Independently develops features scoped to entire application components; may involve multiple releases. |
-| **Architecture** | Evaluates technology choices within a specific application component; considers tradeoffs between complexity, memory usage, performance, and speed of implementation. |
-| **Implementation** | Implementations perform as specified under typical conditions. Abnormal behavior from other components of the project is managed and resolved. Observables (e.g. logs and metrics) capture the state of the application.  |
-| **Code/Design Review** | Provides thorough, timely code reviews. Provides feedback on design docs about specific areas of expertise. |
-| **Debugging** | Debugs reproducible issues in products with which they have familiarity even with less than full context. Increases efficiency by shortening debugging loops. |
+ | **Technical Knowledge** | Has a strong foundation in ML/NLP, spanning traditional and modern approaches. Generally doesn't need to rely on external resources for common ML knowledge and can meaningfully discuss important ML/NLP concepts. Stays aware of some of the latest developments (e.g., PyTorch, libraries, new models or platforms).|
+ | **Technical Problem Solving** | Can diagnose and fix most issues regarding ML problems, while occasionally relying on others to help diagnose issues and provide feedback on how to unblock. Can be generally trusted that the work was soundly executed without much help or guidance. For thoroughness, we will still double-check one's work and ask them for intricate details.|
+ | **Research Knowledge** | Has a solid understanding of modern literature, including a working knowledge of some key works from 5-10 years ago. That is, has moderate amount research knowledge in terms of breadth and depth.|
+| **Research Abilities** | Is familiar and comfortable with the process of conducting novel research and needs little assistance in identifying problems and potential approaches. Needs some assistance and feedback in balancing time spent on reading papers, brainstorming novel research ideas, writing code, and running experiments|
+ | **Research Writing** | Has solid experience publishing papers (e.g., 3-6 first author papers in top-tier conferences). Can write the majority of a paper with a moderately clear narrative; however, greatly benefits from having feedback and edits. | 
+ | **Modeling/Coding** | Can write effective, efficient ML code in PyTorch. Can develop and implement novel architectures without much difficulty. Runs sound, useful experiments and can make adjustments while minimally relying on others for suggestions. Asks others for help and feedback but usually not out of reliance; that is, can generally unblock oneself.| 
 
 
 
-<a name="swe2_leadership"></a>
+<a name="rs2_leadership"></a>
 ### Leadership
 ###### [Jump to top](#main)
 | | | 
 | -- | -- |
  | **Intellectual Curiosity** | Exercises curiosity in all things; encourages peers to seek answers. Demonstrates strong understanding of company and engineering philosophy and principles. Provides evidence and counter proposals to support ideas. |
-| **Innovation** | Takes appropriate amount of risk and tries new ways of doing old things. Learning to be comfortable with failure and seeks to learn from it. Shares lessons with peers and teammates.  |
+| **Innovation** | Takes appropriate amount of risk and tries new ways of doing old things. Is learning to be comfortable with failure and seeks to learn from it. Shares lessons with peers and teammates.  |
 | **Decision Scope** | Independently determines completion path of own daily tasks and projects.  |
 | **Operational Capacity** | Supports the tactical initiatives for the relative area; seeks opportunities to lead certain initiatives.  |
 | **Collaboration Sphere** | Builds productive internal/external working relationships with department and functional leadership.   |
@@ -108,7 +109,7 @@
 
 
 
-<a name="swe2_autonomy"></a>
+<a name="rs2_autonomy"></a>
 ### Autonomy
 ###### [Jump to top](#main)
 | | | 
@@ -121,7 +122,7 @@
 
 
 
-<a name="swe2_teamwork"></a>
+<a name="rs2_teamwork"></a>
 ### Teamwork
 ###### [Jump to top](#main)
 | | | 
@@ -136,24 +137,24 @@
 
 
 
-<a name="sse1"></a>
-## Senior Software Engineer I
+<a name="srs1"></a>
+## Senior Research Scientist I
 
-<a name="sse1_techexc"></a>
+<a name="srs1_techexc"></a>
 ### Technical Excellence
 ###### [Jump to top](#main)
 | | | 
 | -- | -- |
- | **Tools and Tech** | Deeply experienced with all essential technologies for their role. Recognized as a team expert on particular tools and/or technologies. Employs unfamiliar reference documentation efficiently and judiciously for atypical use of technologies. |
-| **Technical Problem Solving** | Independently develops features across an entire application/product/tool; deployment of these features potentially takes place across a significant number of deploys. |
-| **Architecture** | Evaluate tradeoffs between complexity, memory usage, performance, reliability, and suitability for product goals. |
-| **Implementation** | Abnormal behavior from dependencies is handled when possible; observables highlight actionable problems with the system. *Scope is primarily within own project.* |
-| **Code/Design Review** | Provides thorough, timely code reviews. Sought out as a reviewer for more complicated changes affecting an application. Provides feedback on all areas of design docs. |
-| **Debugging** | Debugs issues in products with which they have familiarity even with incomplete context. Offers mitigating or partial solutions when appropriate. |
+ | **Technical Knowledge** | Has a strong foundation in ML/NLP that spans decades of work. Seldomly needs to consult external resources for common ML knowledge. Stays abreast of many cutting-edge technologies (e.g., within PyTorch, libraries, new models or platforms).|
+ | **Technical Problem Solving** | Comfortably approaches problems and can be trusted to make steady progress towards a solution without much assistance. Doesn't shy aware from difficult problems and demonstrates strong intuition with reasonable ideas -- while leveraging a wide breadth of first-hand knowledge and relevant work from others. |
+ | **Research Knowledge** | Has a strong working knowledge of cutting-edge research. This includes understanding key details of specific, compelling papers within a few weeks of their gaining attention within the community. Additionally, is aware of a vast amount of past works and is able to make connections across papers from different areas and time periods. |
+| **Research Abilities** |  Is very comfortable with the process of conducting novel research. Doesn't need help in identifying problems, and can do so within the constraints of an existing research agenda. Can identify future problems and a trajectory of research to explore. Can be trusted to lead the way in conducting many strong, initial approaches to solve each problem. Generally self-regulates their time well between the various, difficult stages of research. |
+ | **Research Writing** | Has strong experience publishing papers (e.g., 7+ papers in top-tier conferences). Can comfortably write an entire paper with a compelling narrative. Benefits from feedback but the paper can usually be submitted without any additional assistance. Can provide useful feedback on papers written by other Kenshins. | 
+ | **Modeling/Coding** | Can quickly write effective, efficient ML code in PyTorch. Develops novel, sound architectures with ease. Runs a host of pertinent experiments and make appropriate adjustments without assistance. Asks teammates for feedback but it's generally for collaboration purposes and to strengthen everyone's work, as opposed to not being able to unblock oneself. | 
 
 
 
-<a name="sse1_leadership"></a>
+<a name="srs1_leadership"></a>
 ### Leadership
 ###### [Jump to top](#main)
 | | | 
@@ -171,7 +172,7 @@
 
 
 
-<a name="sse1_autonomy"></a>
+<a name="srs1_autonomy"></a>
 ### Autonomy
 ###### [Jump to top](#main)
 | | | 
@@ -184,7 +185,7 @@
 
 
 
-<a name="sse1_teamwork"></a>
+<a name="srs1_teamwork"></a>
 ### Teamwork
 ###### [Jump to top](#main)
 | | | 
@@ -199,23 +200,23 @@
 
 
 
-<a name="sse2"></a>
-## Senior Software Engineer II
+<a name="srs2"></a>
+## Senior Research Scientist II
 
-<a name="sse2_techexc"></a>
+<a name="srs2_techexc"></a>
 ### Technical Excellence
 ###### [Jump to top](#main)
 |||
 |---|---|
-| **Tools and Tech** | Is sought out / seen as an expert in essential technologies for the role.  Provides guidance regarding best practices. |
-| **Architecture** | Evaluates and *articulates the impacts* *of* tradeoffs in complexity, memory usage, performance, reliability, and suitability for product goals across projects. |
-| **Implementation** | Abnormal behavior from dependencies is handled when possible; observables (e.g. logs and metrics) highlight actionable problems with the system. *Scope is across projects / with past projects in mind.* |
-| **Code/Design Review** | Provides guidance to colleagues in their system designs. |
-| **Debugging** |  Is sought out by teammates to help debug issues in products with which they have familiarity even with incomplete context. Offers mitigating or partial solutions when appropriate. |
+ | **Technical Knowledge** | Has a strong foundation in ML/NLP that spans decades of work. Rarely needs to consult external resources for common ML knowledge. Stays abreast of many cutting-edge technologies (e.g., within PyTorch, libraries, new models or platforms) and can be relied upon to bring to our attention important, new works without being solicited.|
+ | **Technical Problem Solving** | Excels at approaching problems and can be trusted to make steady progress towards a solution without assistance. Doesn't shy aware from difficult problems and demonstrates strong intuition with valid ideas -- while leveraging a wide breadth of first-hand knowledge and relevant work from others.|
+ | **Research Knowledge** | Has a strong working knowledge of cutting-edge research. This includes understanding key details of specific, compelling papers within a few weeks of their gaining attention within the community. Additionally, is aware of a vast amount of past works and is able to make connections across papers from different areas and time periods. |
+| **Research Abilities** | Is very comfortable with the process of conducting novel research. Doesn't need help in identifying problems, and can do so not only within the constraints of an existing research agenda but can contribute towards crafting our entire research agenda. Can identify future problems and a trajectory of research to explore. Can be trusted to lead the way in conducting many strong, initial approaches to solve each problem. Self-regulates their time well between the various, difficult stages of research. |
+ | **Research Writing** | Has strong experience publishing papers (e.g., 8+ papers in top-tier conferences). Can comfortably write an entire paper with a compelling narrative. Benefits from feedback but the paper can usually be submitted without any additional assistance. Can be relied on to provide meaningful feedback on papers written by other Kenshins. | 
+ | **Modeling/Coding** | Can quickly write effective, efficient ML code in PyTorch. Develops novel, sound architectures with ease. Runs a host of pertinent experiments and make appropriate adjustments without assistance. Asks teammates for feedback but it's generally for collaboration purposes and to strengthen everyone's work, as opposed to not being able to unblock oneself.| 
 
 
-
-<a name="sse2_leadership"></a>
+<a name="srs2_leadership"></a>
 ### Leadership
 ###### [Jump to top](#main)
 |||
@@ -224,18 +225,18 @@
 | **Collaboration Sphere** | Proactively builds strong relationships with key contacts outside own area of expertise, Creates regular opportunities to collaborate strategically with functional senior staff and leadership. |
 | **Conflict Resolution** | Is sought as a mediator to resolve technical conflicts on the team. |
 
-<a name="sse2_autonomy"></a>
+<a name="srs2_autonomy"></a>
 ### Autonomy
 ###### [Jump to top](#main)
 |||
 |---|---|
 | **Bias to Action** | Mostly independent. Often acts as experienced mentor. *Often consulted by peers for suggestions on critical next-step decisions.* |
-| **Influence on Work** | Sets expectations for new projects.  Coordinates activities of other individual team members
+| **Influence on Work** | Sets expectations for new projects.  Coordinates activities of other individual team members. |
 | **Delegation** | Understands and takes advantage of teammates strengths. |
 
 
 
-<a name="sse2_teamwork"></a>
+<a name="srs2_teamwork"></a>
 ### Teamwork
 ###### [Jump to top](#main)
 |||
@@ -248,20 +249,19 @@
 
 
 <a name="staff"></a>
-## Staff Software Engineer
+## Staff Research Scientist
 
 <a name="staff_techexc"></a>
 ### Technical Excellence
 ###### [Jump to top](#main)
 |||
 |---|---|
-| **Tools and Tech** | Experienced with all essential technologies for their role. Recognized as a company expert on particular tools/technologies. May contribute to technologies via bug reports/fixes or performance improvements when possible. |
-| **Technical Problem Solving** | Works on and initiates technical projects that span multiple applications/products at Kensho. Solutions may involve coordinating deploys across many services. The scope of technical projects typically requires a collaborative interaction mode in contrast to x-as-a-service. Detects system- or project-level estimation and timeline issues. Notices bugs in cross-team behavior or ability to deliver. Levels up engineers and improves velocity on large, months-long projects. |
-| **Architecture** | Evaluates technology tradeoffs between complexity, memory usage, performance, reliability, and suitability for long term sustainability at Kensho. Articulates how those trade-offs manifest across teams and monitors suitability of team structures for the desired architecture(s).  |
-| **Implementation** | Consistently builds software which is resilient to unexpected failures. Observability extends beyond project boundaries. |
-| **Code/Design Review** | Provides thorough, timely code reviews. Sought out as a reviewer for more complicated changes affecting multiple applications, or changes which are identified as requiring more thorough review. Provides design feedback on integrating applications into the broader Kensho ecosystem.  |
-| **Debugging** | Debugs issues even in unfamiliar products with incomplete context. Offers mitigating or partial solutions; may drive and/or take ownership of solutions. |
-
+ | **Technical Knowledge** | Has a mastery level of ML/NLP that spans decades. Can be relied on as a subject expert for a few sub-fields/problems. Stays up-to-date and is generally aware of most of the commonly adopted new technologies within a few months of their adoption.|
+ | **Technical Problem Solving** | Demonstrates mastery in solving a wide array of problems, including complex, novel problems without known solutions. Can be relied on to leverage their wealth of deep knowledge that encompasses a wide landscape of problems. Stays up-to-date on modern technologies, tools, and works. |
+ | **Research Knowledge** | Has a mastery-level knowledge of cutting-edge research, including understanding fine-level details of the most significant papers within a few weeks/months of them gaining attention within the community. Is aware of a vast amount of past works and is able to make unique, compelling connections across papers in ways that aren't obvious to the community at large. |
+| **Research Abilities** | Demonstrates expert-level ability in identifying important, worthwhile problems to work on, and can do so not only within the context of an existing research agenda but can help create new research agendas (i.e., a multi-year collection of projects to pursue). Needs no assistance in regulating their time. Can be trusted to not have any significant oversight within research at large (e.g., knowledge of existing works, paradigm shifts, etc).|
+ | **Research Writing** | Has extensive experience publishing papers (10+ papers in top-tier conferences, including several papers as last-author). Can comfortably write an entire paper with a compelling narrative but often leads others in doing so instead. Can provide meaningful feedback to others' papers at an early stage and throughout.| 
+ | **Modeling/Coding** | Demonstrates mastery-level ability to quickly write sound, effective ML code, including novel architectures. Runs a host of useful experiments and can make correct adjustments without help. Can lead others in general best-practices. Provides rich feedback to other team members and help inform others of latest breakthroughs (e.g., models, NN frameworks, etc). | 
 
 
 <a name="staff_leadership"></a>
@@ -306,57 +306,7 @@
 
 
 
-<a name="principal"></a>
-## Principal Software Engineer
 
-<a name="principal_techexc"></a>
-### Technical Excellence
-###### [Jump to top](#main)
-|||
-|---|---|
-| **Tools and Tech** | Experienced with all essential technologies for their role. Recognized as a company expert on many tools/technologies. Potentially recognized outside Kensho as an expert on particular tools/technologies.  |
-| **Technical Problem Solving** | Works on technical projects that span all applications at Kensho and potentially includes applications developed with partners. Solutions may involve deploys coordinated across multiple organizations.  |
-| **Architecture** | Shares engineering lessons learned from own experience and/or from networks and industry knowledge.  |
-| **Code Design/Review** | Provides design feedback to multiple application teams. |
-| **Debugging** | Debugs issues in unfamiliar products with limited context. Provides mitigations at multiple levels of the stack.  |
-
-
-
-<a name="principal_leadership"></a>
-### Leadership
-###### [Jump to top](#main)
-|||
-|---|---|
-| **Intellectual Curiosity** | Exercises curiosity in all things. Builds good relationships with cross-functional leaders.  |
-| **Innovation** | Assesses risk and reward of failure velocity at a larger, departmental or even company-wide scale. Suggests opportunities for more frequent failure and learning. Operates as an innovation champion within their field or function. 
-| **Decision Scope** | Decisions often drive functional, if not company, direction. Consistently demonstrates awareness for when to be directive or decisive versus when to build consensus.  |
-| **Operational Capacity** | Leads important business areas and/or process/processes. Accountable for the business decisions related to their area of focus and beyond. Works on significant, highly visible and highly impactful issues where analysis of situations or data requires an evaluation of intangibles, and an anticipation of the unforeseen.  |
-| **Collaboration Sphere** | Builds and nurtures strategic relationships with executive management and senior business leadership. May offer suggestions and advice to company leaders to arrive at solutions.  |
-| **Conflict Resolution** | Supports peers and teammates in resolving and diffusing conflict. May be the point of escalation.  |
-| **Adaptability** | Consistently persists above obstacles to achieve desired objectives. Balances confidence in convictions with open-mindedness. Often balances multiple priorities, successfully pivoting to and from each one.  |
-| **Judgement** | Exercises sound, independent judgement in all things, especially for obtaining results. Decisions are most always made through the lens of benefiting Kensho. |
-
-
-
-<a name="principal_autonomy"></a>
-### Autonomy
-###### [Jump to top](#main)
-|||
-|---|---|
-| **Bias to Action** | Acts independently, often making critical business-impacting decisions sometimes with limited information. |
-| **Influence on Work** | Set goals for department and/or function based on company objectives; may also contribute to setting company objectives. Provides guidelines for organizational documentation best practices. Significant influence over meta-Software issues such as selecting the right languages, frameworks, serverless, on-prem, etc. Anticipates and addresses future org-wide needs based on company direction.  |
-| **Delegation** | Delegates larger-scoped responsibilities across the Engineering function, and to stakeholders outside of Engineering. Understands when and how to decline requests while motivating others to be directly involved. |
-
-
-
-<a name="principal_teamwork"></a>
-### Teamwork
-###### [Jump to top](#main)
-|||
-|---|---|
-| **Communication** | Practices open and transparent communication with all levels of the organization. Exemplary rhetorical skill across technical and non-technical topics. Actively knowledge shares within industry. Collaborates on marketing material (e.g. blog posts). Tone of internal and external presentations is often visionary, inspirational, and motivational.  |
-| **Participation** | Models the behavior of involvement and interaction expected within the team. Proactively shares ideas and opportunities where team members can participate and develop their skills. Consolidates ideas from team members and brainstorms on ways to implement it at a larger scale across the organization. Supportive and encourages participation outside of the day to day work wherever it makes sense.  |
-| **Go Team** | Operates as pillar of exemplary behavior. Recognized as an active partner in shaping the future vision of Kensho. |
 
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/80x15.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.

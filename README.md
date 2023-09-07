@@ -16,13 +16,14 @@ The first inflection point in your career at Kensho and in many other tech compa
 
 A career track (also referred to as a job family) groups competencies, skills, and behavioral expectations which are critical to a role, in order of progression, from entry to advanced levels. At Kensho, we have tracks for roles found within each job function. Multiple roles may align under one career track if the work requires similar training, skills, knowledge and expertise. Employees are aligned with the track that matches about 70% or more of their day-to-day work responsibilities. 
 
- - [Individual Contributor - Software Engineering](individual_software_engineering.md)
+Tracks listed A-Z:
  - [Individual Contributor - Machine Learning Engineering](individual_machine_learning_engineering.md)
- - [People Leader - Engineering](people_leader_engineering.md)
+ - [Individual Contributor - Research Scientist](individual_research_scientist.md)
+ - [Individual Contributor - Site Reliability Engineering](individual_site_reliability_engineering.md)
+ - [Individual Contributor - Software Engineering](individual_software_engineering.md)
+- [People Leader - Engineering](people_leader_engineering.md)
  
  Coming soon: 
-
- - Individual Contributor - Site Reliability Engineering
  - Individual Contributor - Applied Scientist
 
 ## License

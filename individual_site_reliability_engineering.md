@@ -1,33 +1,34 @@
 <a name="main"></a>
-# Kensho - Individual Contributor - Software Engineering
+# Kensho - Individual Contributor - Site Reliability Engineering
 |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | -- |
-| Technical Excellence <ul><li>Tools and Tech</li><li>Technical Problem Solving</li><li>Architecture</li><li>Implementation and Forethought</li><li>Code/Design Review</li><li>Debugging</li></ul> | [Software Engineer I](#swe1_techexc) | [Software Engineer II ](#swe2_techexc)  | [Senior Software Engineer I](#sse1_techexc) | [Senior Software Engineer II](#sse2_techexc)  | [Staff Software Engineer](#staff_techexc) | [Principal Software Engineer](#principal_techexc)  |
-| Leadership <ul><li>Intellectual Curiosity</li><li>Innovation</li><li>Decision Scope</li><li>Operational Capacity</li><li>Collaboration Sphere</li><li>Conflict Resolution</li><li>Self-Development</li><li>Adaptability</li><li>Judgement</li><li>General Problem Solving</li></ul>| [Software Engineer I](#swe1_leadership) | [Software Engineer II ](#swe2_leadership) | [Senior Software Engineer I](#sse1_leadership) | [Senior Software Engineer II](#sse2_leadership) | [Staff Software Engineer](#staff_leadership) | [Principal Software Engineer](#principal_leadership)| 
-| Autonomy<ul><li>Bias to Action</li><li>Influence on Work</li><li>Resourcefulness</li><li>Delegation</li><li>Prioritization</li></ul>| [Software Engineer I](#swe1_autonomy) | [Software Engineer II ](#swe2_autonomy)  | [Senior Software Engineer I](#sse1_autonomy)  | [Senior Software Engineer II](#sse2_autonomy)  | [Staff Software Engineer](#staff_autonomy)  | [Principal Software Engineer](#principal_autonomy)  |
-| Teamwork <ul><li>Feedback</li><li>Communication</li><li>Participation</li><li>Go Team</li></ul> | [Software Engineer I](#swe1_teamwork) | [Software Engineer II ](#swe2_teamwork) | [Senior Software Engineer I](#sse1_teamwork) | [Senior Software Engineer II](#sse2_teamwork) | [Staff Software Engineer](#staff_teamwork) | [Principal Software Engineer](#principal_teamwork) |
+| Technical Excellence <ul><li>Tools and Tech</li><li>Technical Problem Solving</li><li>Architecture</li><li>Implementation and Forethought</li><li>Code/Design Review</li><li>Collaboration</li><li>Debugging & Support</li></ul> | [Site Reliability Engineer I](#sre1_techexc) | [Site Reliability Engineer II ](#sre2_techexc)  | [Senior Site Reliability Engineer I](#ssre1_techexc) | [Senior Site Reliability Engineer II](#ssre2_techexc)  | [Staff Site Reliability Engineer](#staff_techexc) | [Principal Site Reliability Engineer](#principal_techexc)  |
+| Leadership <ul><li>Intellectual Curiosity</li><li>Innovation</li><li>Decision Scope</li><li>Operational Capacity</li><li>Collaboration Sphere</li><li>Conflict Resolution</li><li>Self-Development</li><li>Adaptability</li><li>Judgement</li><li>General Problem Solving</li></ul>| [Site Reliability Engineer I](#sre1_leadership) | [Site Reliability Engineer II ](#sre2_leadership) | [Senior Site Reliability Engineer I](#ssre1_leadership) | [Senior Site Reliability Engineer II](#ssre2_leadership) | [Staff Site Reliability Engineer](#staff_leadership) | [Principal Site Reliability Engineer](#principal_leadership)| 
+| Autonomy<ul><li>Bias to Action</li><li>Influence on Work</li><li>Resourcefulness</li><li>Delegation</li><li>Prioritization</li></ul>| [Site Reliability Engineer I](#sre1_autonomy) | [Site Reliability Engineer II ](#sre2_autonomy)  | [Senior Site Reliability Engineer I](#ssre1_autonomy)  | [Senior Site Reliability Engineer II](#ssre2_autonomy)  | [Staff Site Reliability Engineer](#staff_autonomy)  | [Principal Site Reliability Engineer](#principal_autonomy)  |
+| Teamwork <ul><li>Feedback</li><li>Communication</li><li>Participation</li><li>Go Team</li></ul> | [Site Reliability Engineer I](#sre1_teamwork) | [Site Reliability Engineer II ](#sre2_teamwork) | [Senior Site Reliability Engineer I](#ssre1_teamwork) | [Senior Site Reliability Engineer II](#ssre2_teamwork) | [Staff Site Reliability Engineer](#staff_teamwork) | [Principal Site Reliability Engineer](#principal_teamwork) |
 
 
-<a name="swe1"></a>
-## Software Engineer I
+<a name="sre1"></a>
+## Site Reliability Engineer I
 
 
-<a name="swe1_techexc"></a>
+<a name="sre1_techexc"></a>
 ### Technical Excellence
 ###### [Jump to top](#main)
  
  |  |  |
  | --- | --- |
- | **Tools and Tech** | Understands most processes and principles and is familiar with the essential technologies for their work (e.g. git, JavaScript, python, etc.); relies on reference documentation as needed to develop their understanding of core technologies.|
- | **Technical Problem Solving** | Independently develops well-scoped features requiring a single deploy. |
- | **Implementation and Forethought** | Implementations perform as specified under typical conditions; observables (e.g. logs and metrics) capture concrete actions. |
-| **Code/Design Review** | Actively participates in own and teammates code and design reviews; responsive to comments and change requests in a timely manner. |
- | **Debugging** | Debugs reproducible issues in their own code with full context. | 
+ | **Tools and Tech** | Understands most processes and principles and is familiar with the essential technologies for their work (e.g. git, JavaScript, python, etc.); relies on reference documentation as needed to develop their understanding of core technologies. Understands the tools used to run a service in production. (e.g. k8s, jsonnet, KD, Jenkins, etc)|
+ | **Technical Problem Solving** | Independently develops well-scoped features requiring a single deploy. Able to deploy a service in all environments independently. (e.g. stage, prod with unit/smoke tests). Understands where underlying data is stored. (e.g. requests and responses, models, model metadata). Understands the process for software version updates and model updates.|
+ | **Implementation and Forethought** | Identifies and uses the standard patterns across applications. Improvises as needed (e.g. library/modules). Implementations perform as specified under typical conditions; observables (e.g. logs and metrics) capture concrete actions. |
+| **Code/Design Review** | Actively participates in own and teammates code and design reviews; responsive to comments and change requests in a timely manner.  |
+| **Collaboration**| Understands the architecture of few of the services in production. Participates in SRE design reviews and postmortems.|
+ | **Debugging** | Able to use necessary tools to identify the root cause of the services in production. Debugs reproducible issues in their own code with full context. | 
 
 
 
 
-<a name="swe1_leadership"></a>
+<a name="sre1_leadership"></a>
 ### Leadership
 ###### [Jump to top](#main)
 | | | 
@@ -45,7 +46,7 @@
 
 
 
-<a name="swe1_autonomy"></a>
+<a name="sre1_autonomy"></a>
 ### Autonomy
 ###### [Jump to top](#main)
 | | | 
@@ -57,7 +58,7 @@
 | **Prioritization** | Priorities are usually determined by manager. |
 
 
-<a name="swe1_teamwork"></a>
+<a name="sre1_teamwork"></a>
 ### Teamwork
 ###### [Jump to top](#main)
 | | | 
@@ -73,29 +74,30 @@
 
 
 
-<a name="swe2"></a>
-## Software Engineer II
+<a name="sre2"></a>
+## Site Reliability Engineer II
 
-<a name="swe2_techexc"></a>
+<a name="sre2_techexc"></a>
 ### **Technical Excellence**
 ###### [Jump to top](#main)
 | | | 
 | -- | -- |
- | **Tools and Tech** | Experienced with essential technologies for their role; navigates familiar reference documentation efficiently to resolve uncertainties and share knowledge. Proficient with developer tools (e.g. IDE, shell) to increase workflow efficiency. |
-| **Technical Problem Solving** | Independently develops features scoped to entire application components; may involve multiple releases. |
-| **Architecture** | Evaluates technology choices within a specific application component; considers tradeoffs between complexity, memory usage, performance, and speed of implementation. |
-| **Implementation** | Implementations perform as specified under typical conditions. Abnormal behavior from other components of the project is managed and resolved. Observables (e.g. logs and metrics) capture the state of the application.  |
+ | **Tools and Tech** | Experienced with essential technologies for their role; may occasionally reference documentation for technologies. Proficient with developer tools (i.e. IDE, shell) to increase workflow efficiency. Proficient with all the tools needed to run a cluster (autoscaler, linkerd, etc). Able to provision services in AWS (RDS, redis, s3, terraform).|
+| **Technical Problem Solving** | Independently develops features scoped to entire application components; may involve multiple releases. Independently migrate/launch a new service in production. (e.g. SRE Migration of a service which include S3, ALB, traffic splits, envoy, alerts, etc). Understands how models are created, updated and used. |
+| **Architecture** | Evaluates technology choices within a specific application component; considers tradeoffs between complexity, memory usage, performance, and speed of implementation.|
+| **Implementation and Forethought** | Implementations perform as specified under typical conditions. Abnormal behavior from other components of the project is managed and resolved. Observables capture the state of the application. Independently provisions all dependencies for a service (e.g. Database, Load Balancer, ingress, dashboards, etc)  |
 | **Code/Design Review** | Provides thorough, timely code reviews. Provides feedback on design docs about specific areas of expertise. |
-| **Debugging** | Debugs reproducible issues in products with which they have familiarity even with less than full context. Increases efficiency by shortening debugging loops. |
+|**Collaboration**| Can evaluate the customer reliability of the service (SLO, SLA, SLI, etc). Proficient with continuous maturity model. Conducts blameless postmortems.|
+| **Debugging & Support** | Debugs reproducible issues in products with which they have familiarity even with less than full context. Increases efficiency by shortening debugging loops. Can provide access and onboard users for our services. Independently resolves customer issues and mitigate production issues. Participates in OPS and SRE rotations. |
 
 
 
-<a name="swe2_leadership"></a>
+<a name="sre2_leadership"></a>
 ### Leadership
 ###### [Jump to top](#main)
 | | | 
 | -- | -- |
- | **Intellectual Curiosity** | Exercises curiosity in all things; encourages peers to seek answers. Demonstrates strong understanding of company and engineering philosophy and principles. Provides evidence and counter proposals to support ideas. |
+ | **Intellectual Curiosity** | Exercises curiosity in all things; encourages peers to seek ansrers. Demonstrates strong understanding of company and engineering philosophy and principles. Provides evidence and counter proposals to support ideas. |
 | **Innovation** | Takes appropriate amount of risk and tries new ways of doing old things. Learning to be comfortable with failure and seeks to learn from it. Shares lessons with peers and teammates.  |
 | **Decision Scope** | Independently determines completion path of own daily tasks and projects.  |
 | **Operational Capacity** | Supports the tactical initiatives for the relative area; seeks opportunities to lead certain initiatives.  |
@@ -108,7 +110,7 @@
 
 
 
-<a name="swe2_autonomy"></a>
+<a name="sre2_autonomy"></a>
 ### Autonomy
 ###### [Jump to top](#main)
 | | | 
@@ -121,7 +123,7 @@
 
 
 
-<a name="swe2_teamwork"></a>
+<a name="sre2_teamwork"></a>
 ### Teamwork
 ###### [Jump to top](#main)
 | | | 
@@ -136,24 +138,25 @@
 
 
 
-<a name="sse1"></a>
-## Senior Software Engineer I
+<a name="ssre1"></a>
+## Senior Site Reliability Engineer I
 
-<a name="sse1_techexc"></a>
+<a name="ssre1_techexc"></a>
 ### Technical Excellence
 ###### [Jump to top](#main)
 | | | 
 | -- | -- |
- | **Tools and Tech** | Deeply experienced with all essential technologies for their role. Recognized as a team expert on particular tools and/or technologies. Employs unfamiliar reference documentation efficiently and judiciously for atypical use of technologies. |
-| **Technical Problem Solving** | Independently develops features across an entire application/product/tool; deployment of these features potentially takes place across a significant number of deploys. |
-| **Architecture** | Evaluate tradeoffs between complexity, memory usage, performance, reliability, and suitability for product goals. |
-| **Implementation** | Abnormal behavior from dependencies is handled when possible; observables highlight actionable problems with the system. *Scope is primarily within own project.* |
+ | **Tools and Tech** | Deeply experienced with all essential technologies for their role. Recognized as a team expert on particular tools and/or technologies. Employs unfamiliar reference documentation efficiently and judiciously for atypical use of technologies. Deep experience with all essential technologies involved in production. |
+| **Technical Problem Solving** | Independently identifies the future needs and follows up with implementation. Independently develops features across an entire application/product/tool; deployment of these features potentially takes place across a significant number of deploys. Independently identifies and upgrades the technology involved in production (e.g. k8s, linkerd, prometheus, etc). Able to recognize model update/upgrade process. (e.g. Where the models are created, framework used, storage and serving of input data, models, etc) |
+| **Architecture** | Evaluate tradeoffs between complexity, memory usage, performance, reliability, and suitability for product objectives. |
+| **Implementation & Forethought** | Abnormal behavior from dependencies is handled when possible; observables highlight actionable problems with the system. Scope is primarily within own project. Observability and migration expert (e.g. alerts/graphs). Identifies features and implements to reduce toil. Implements tools to track SLI, error budgets, mean time * metrics |
 | **Code/Design Review** | Provides thorough, timely code reviews. Sought out as a reviewer for more complicated changes affecting an application. Provides feedback on all areas of design docs. |
-| **Debugging** | Debugs issues in products with which they have familiarity even with incomplete context. Offers mitigating or partial solutions when appropriate. |
+| **Collaboration** | Suggests improvements/enhancements to the technologies and also introduces better/advanced technology. Covers application dependencies and also monitoring/alerting tools. Train L1 folks and delegate more responsibilities. Train fellow SREs on handling pages (wheel-of-misfortune, etc.) Ability to convince stakeholders about the performance of our services and build trust and confidence. |
+| **Debugging & Support** | Debugs issues in products with which they have familiarity even with incomplete context. Offers mitigating or partial solutions when appropriate. Can identify the root cause of issues (both production and customers) and resolves independently. Owns postmortems. Able to prepare services for disasters. (e.g. documentation, create & restore from backups, etc)|
 
 
 
-<a name="sse1_leadership"></a>
+<a name="ssre1_leadership"></a>
 ### Leadership
 ###### [Jump to top](#main)
 | | | 
@@ -171,7 +174,7 @@
 
 
 
-<a name="sse1_autonomy"></a>
+<a name="ssre1_autonomy"></a>
 ### Autonomy
 ###### [Jump to top](#main)
 | | | 
@@ -184,7 +187,7 @@
 
 
 
-<a name="sse1_teamwork"></a>
+<a name="ssre1_teamwork"></a>
 ### Teamwork
 ###### [Jump to top](#main)
 | | | 
@@ -199,23 +202,23 @@
 
 
 
-<a name="sse2"></a>
-## Senior Software Engineer II
+<a name="ssre2"></a>
+## Senior Site Reliability Engineer II
 
-<a name="sse2_techexc"></a>
+<a name="ssre2_techexc"></a>
 ### Technical Excellence
 ###### [Jump to top](#main)
 |||
 |---|---|
-| **Tools and Tech** | Is sought out / seen as an expert in essential technologies for the role.  Provides guidance regarding best practices. |
-| **Architecture** | Evaluates and *articulates the impacts* *of* tradeoffs in complexity, memory usage, performance, reliability, and suitability for product goals across projects. |
-| **Implementation** | Abnormal behavior from dependencies is handled when possible; observables (e.g. logs and metrics) highlight actionable problems with the system. *Scope is across projects / with past projects in mind.* |
+| **Tools and Tech** | Is sought out / seen as an expert in essential technologies for the role. Provides guidance regarding best practices. Deep experience with all essential technologies involved in production. Independently identifies the future needs and follows up with implementation. Evaluates and articulates the impacts of tradeoffs in complexity, memory usage, performance, reliability, and suitability for product goals across projects. Automates technology for easy/no effort adaption. (e.g. cluster-wide metrics and alerts). |
+| **Technical Problem Solving**|Comes up with innovative ways to automate operational work. Understands model validation and graduation process (e.g. Graduate a model from stage to production). Improves the efficiency of our resources (e.g. Nodes/replica usage percentage, efficient and automated upgrades).|
 | **Code/Design Review** | Provides guidance to colleagues in their system designs. |
-| **Debugging** |  Is sought out by teammates to help debug issues in products with which they have familiarity even with incomplete context. Offers mitigating or partial solutions when appropriate. |
+| **Collaboration** | Development of customized SRE policies and guidelines. (e.g. Database migration/upgrades, app migrations, model updates, caching of models/images). Work with applications and advocate to adapt common technologies. (e.g. Testing/validation methodologies). |
+| **Debugging & Support** |  Is sought out by teammates to help debug issues in products with which they have familiarity even with incomplete context. Offers mitigating or partial solutions when appropriate. Recognize common patterns of problems. Create a plan for resolution. Automated testing of disaster recovery scenarios. Automated gathering of data for issues. |
 
 
 
-<a name="sse2_leadership"></a>
+<a name="ssre2_leadership"></a>
 ### Leadership
 ###### [Jump to top](#main)
 |||
@@ -224,7 +227,7 @@
 | **Collaboration Sphere** | Proactively builds strong relationships with key contacts outside own area of expertise, Creates regular opportunities to collaborate strategically with functional senior staff and leadership. |
 | **Conflict Resolution** | Is sought as a mediator to resolve technical conflicts on the team. |
 
-<a name="sse2_autonomy"></a>
+<a name="ssre2_autonomy"></a>
 ### Autonomy
 ###### [Jump to top](#main)
 |||
@@ -235,7 +238,7 @@
 
 
 
-<a name="sse2_teamwork"></a>
+<a name="ssre2_teamwork"></a>
 ### Teamwork
 ###### [Jump to top](#main)
 |||
@@ -248,19 +251,20 @@
 
 
 <a name="staff"></a>
-## Staff Software Engineer
+## Staff Site Reliability Engineer
 
 <a name="staff_techexc"></a>
 ### Technical Excellence
 ###### [Jump to top](#main)
 |||
 |---|---|
-| **Tools and Tech** | Experienced with all essential technologies for their role. Recognized as a company expert on particular tools/technologies. May contribute to technologies via bug reports/fixes or performance improvements when possible. |
-| **Technical Problem Solving** | Works on and initiates technical projects that span multiple applications/products at Kensho. Solutions may involve coordinating deploys across many services. The scope of technical projects typically requires a collaborative interaction mode in contrast to x-as-a-service. Detects system- or project-level estimation and timeline issues. Notices bugs in cross-team behavior or ability to deliver. Levels up engineers and improves velocity on large, months-long projects. |
-| **Architecture** | Evaluates technology tradeoffs between complexity, memory usage, performance, reliability, and suitability for long term sustainability at Kensho. Articulates how those trade-offs manifest across teams and monitors suitability of team structures for the desired architecture(s).  |
-| **Implementation** | Consistently builds software which is resilient to unexpected failures. Observability extends beyond project boundaries. |
+| **Tools and Tech** | Experienced with all essential technologies for their role. Recognized as a company expert on particular tools/technologies. May contribute to technologies via bug reports/fixes or performance improvements when possible. Recognized as the company expert for the SRE. Mastered most of SRE concepts. |
+| **Technical Problem Solving** | Works on and initiates technical projects that span multiple applications/products at Kensho. Solutions may involve coordinating deploys across many services. The scope of technical projects typically requires a collaborative interaction mode in contrast to x-as-a-service. Detects system- or project-level estimation and timeline issues. Notices bugs in cross-team behavior or ability to deliver. Improves velocity on large, months-long projects. Recognizes new technology necessary for Reliability, Observability and Scalability of all services and recognizes new technology necessary for model management and inference in production. (e.g. Collection of metrics, serving, storage and sync models). |
+| **Architecture** | Evaluates technology tradeoffs between complexity, memory usage, performance, reliability, and suitability for long term sustainability at Kensho. Articulates how those trade-offs manifest across teams and monitors suitability of team structures for the desired architecture(s). Understands architectures of all the running services and dependencies. Can suggest changes to a service to make it available in multi-region. Innovates and develops new tools/tech to eliminate most of the toil and reduce operation workload.  |
+| **Implementation & Forethought** | Consistently builds software which is resilient to unexpected failures. Observability extends beyond project boundaries. Can adapt software to fit our needs. Carves a path for usage without disrupting any service. Takes actions based on error budgets. |
 | **Code/Design Review** | Provides thorough, timely code reviews. Sought out as a reviewer for more complicated changes affecting multiple applications, or changes which are identified as requiring more thorough review. Provides design feedback on integrating applications into the broader Kensho ecosystem.  |
-| **Debugging** | Debugs issues even in unfamiliar products with incomplete context. Offers mitigating or partial solutions; may drive and/or take ownership of solutions. |
+| **Collaboration** | Handles SRE migrations completely. Recognizes the need for re-reviews. Keeps the rest of the SRE team updated on changes to services, subtle implications and the effects on customers. Can migrate applications from Kensho to any S&P division. |
+| **Debugging & Support** | Debugs issues even in unfamiliar products with incomplete context. Offers mitigating or partial solutions; may drive and/or take ownership of solutions. Can reduce the duration and frequency of failures. Can identify and fix all of the production issues. Provides executive summary for all incidents to executives and customers. Owns disaster management for all services. Creates environment to mock disasters and improve disaster recovery process regularly. |
 
 
 
@@ -307,18 +311,19 @@
 
 
 <a name="principal"></a>
-## Principal Software Engineer
+## Principal Site Reliability Engineer
 
 <a name="principal_techexc"></a>
 ### Technical Excellence
 ###### [Jump to top](#main)
 |||
 |---|---|
-| **Tools and Tech** | Experienced with all essential technologies for their role. Recognized as a company expert on many tools/technologies. Potentially recognized outside Kensho as an expert on particular tools/technologies.  |
-| **Technical Problem Solving** | Works on technical projects that span all applications at Kensho and potentially includes applications developed with partners. Solutions may involve deploys coordinated across multiple organizations.  |
-| **Architecture** | Shares engineering lessons learned from own experience and/or from networks and industry knowledge.  |
-| **Code Design/Review** | Provides design feedback to multiple application teams. |
-| **Debugging** | Debugs issues in unfamiliar products with limited context. Provides mitigations at multiple levels of the stack.  |
+| **Tools and Tech** | Experienced with all essential technologies for their role. Recognized as a company expert on many tools/technologies. Potentially recognized outside Kensho as an expert on particular tools/technologies.   |
+| **Technical Problem Solving** | Works on technical projects that span all applications at Kensho and potentially includes applications developed with partners. Solutions may involve deploys coordinated across multiple organizations. Works on bringing in new workflows and policies. (e.g. Changes to maturity model, migration policies). Advocates SRE mindset and principles throughout the company.  |
+| **Architecture** | Shares engineering lessons learned from own experience and/or from networks and industry knowledge. Delivers public talks and publish blog posts on unique adoption of technologies.  |
+| **Implementation & Forethought** | Oversees the deployment of new concepts/technology. Has forethought to know if a choice is going to be a failure even before implementation. Open sources SRE tools developed in Kensho. |
+| **Code Design/Review** | Provides design feedback to multiple application teams. Understands third party/open source architecture of products to fix issues arising from them. |
+| **Debugging & Support** | Debugs issues in unfamiliar products with limited context. Provides mitigations at multiple levels of the stack. Can diagnose and fix issues in third party software. Provides patches to open source software. Able to handle all aspects of production issues (e.g. technology, communication, management of incidents, resolution). Performs and evaluates disaster management strategies via mock exercises.  |
 
 
 
