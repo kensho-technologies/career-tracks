@@ -2,11 +2,11 @@
 # Kensho - People Leader - Engineering
 |  |  |   | |
 | --- | --- | --- | --- |
-| Technical Excellence <ul><li>Implementation</li><li>Team Excellence</li><li>Architecture</li><li>Technical Problem Solving</li><li>Debugging</li></ul> | [Manager](#manager_techexc) | [Director](#director_techexc)  | [Vice President](#vpe_techexc) |  
-| Leadership <ul><li>Intellectual Curiosity</li><li>Decision Scope</li><li>Operational Capacity</li><li>Collaboration Sphere</li><li>Conflict Resolution</li><li>Self-Development</li><li>Adaptability</li><li>Judgement</li><li>General Problem Solving</li></ul>| [Manager](#manager_leadership) | [Director](#director_leadership) | [Vice President](#vpe_leadership) | 
-| Autonomy<ul><li>Expected Supervision</li><li>Influence on Work</li><li>Resourcefulness</li><li>Delegation</li><li>Prioritization</li></ul>| [Manager](#manager_autonomy) | [Director](#director_autonomy)  | [Vice President](#vpe_autonomy)  | 
-| Teamwork <ul><li>Feedback</li><li>Communication</li><li>Participation</li><li>Go Team</li></ul> | [Manager](#manager_teamwork) | [Director](#director_teamwork) | [Vice President](#vpe_teamwork) | 
-| People Management <ul><li>Scope</li><li>Advocacy</li><li>Talent Management</li><li>Hiring</li><li>Planning</li><li>Change Management</li></ul> | [Manager](#manager_people_management) | [Director](#director_people_management) | [Vice President](#vpe_people_management) | 
+| Technical Excellence <ul><li>Implementation</li><li>Team Excellence</li><li>Architecture</li><li>Technical Problem Solving</li><li>Debugging</li></ul> | [Manager](#manager_techexc) | [Senior Manager](#senior_manager_techexec) | [Director](#director_techexc)  | [Vice President](#vpe_techexc) |  
+| Leadership <ul><li>Intellectual Curiosity</li><li>Decision Scope</li><li>Operational Capacity</li><li>Collaboration Sphere</li><li>Conflict Resolution</li><li>Self-Development</li><li>Adaptability</li><li>Judgement</li><li>General Problem Solving</li></ul>| [Manager](#manager_leadership) | [Senior Manager](#senior_manager_leadership) | [Director](#director_leadership) | [Vice President](#vpe_leadership) | 
+| Autonomy<ul><li>Expected Supervision</li><li>Influence on Work</li><li>Resourcefulness</li><li>Delegation</li><li>Prioritization</li></ul>| [Manager](#manager_autonomy) | [Senior Manager](#senior_manager_autonomy) | [Director](#director_autonomy)  | [Vice President](#vpe_autonomy)  | 
+| Teamwork <ul><li>Feedback</li><li>Communication</li><li>Participation</li><li>Go Team</li></ul> | [Manager](#manager_teamwork) | [Senior Manager](#senior_manager_teamwork) | [Director](#director_teamwork) | [Vice President](#vpe_teamwork) | 
+| People Management <ul><li>Scope</li><li>Advocacy</li><li>Talent Management</li><li>Hiring</li><li>Planning</li><li>Change Management</li></ul> | [Manager](#manager_people_management) | [Senior Manager](#senior_manager_people_management) | [Director](#director_people_management) | [Vice President](#vpe_people_management) | 
 
 
 <a name="manager"></a>
@@ -78,6 +78,72 @@
 | **Hiring** | Sets the standard for hiring, developing and engaging key talent within the team. Scopes out hiring needs; partners closely with Recruiting on sourcing and identifying key talent.  | 
 | **Planning** | Develops goals and outcomes. Provides input into project planning. Coordinates and directs multiple concurrent projects, makes detailed plans to accomplish goals. Has input into staffing and recommends changes at the team level. |  
 | **Change Management** | Understands the concepts/model relating to change management. Works with leadership and HR to understand the implications of change on the team. Responds to questions and escalates issues and concerns raised. | 
+
+<a name="senior_manager"></a>
+## Senior Manager
+
+
+<a name="senior_manager_techexc"></a>
+### Technical Excellence
+###### [Jump to top](#main)
+ 
+ |  |  |
+ | --- | --- |
+ | **Implementation** | Possesses advanced technical skills equivalent to or surpassing that of a seasoned senior software engineer. Strategically delegates technical responsibilities and projects to empower and develop team members. |
+ | **Team Excellence** | Holds the team to a high standard of code quality and technical excellence. Ensures the team not only meets these standards, but also consistently models them across the broader organization. |
+ | **Architecture** | Collaborates effectively with cross-functional teams and peers to gain consensus and support for proposed approaches and solutions. Actively contributes to strategic planning processes to influence decisions that align with the organization's long-term vision. |
+ | **Technical Problem Solving** | Provides expert guidance to teams in breaking down complex problems and facilitating efficient and effective resolutions. Exhibits a strategic mindset in decision-making, considering both short-term project needs and long-term organizational goals. Acts as a critical problem-solving resource for the team. |
+
+
+<a name="senior_manager_leadership"></a>
+### Leadership
+###### [Jump to top](#main)
+| | | 
+| -- | -- |
+| **Intellectual Curiosity** | Exercises curiosity in all things. Proactively seeks to understand differing perspectives and stay informed on industry trends. Plays a role in influencing and advancing company & engineering philosophy and principles. |
+| **Decision Scope** | Determines completion path of direct team while influencing operational approaches of other teams. Actively considers both immediate and long-term ramifications of decisions. Premptively crafts and presents alternative scenarios to address potential setbacks and/or roadblocks. |
+| **Operational Capacity** | Leads tactical initiatives related to their business area or process. May also contribute to strategic initiatives and operational activities related to their business area and/or the broader company. |
+| **Collaboration Sphere** | Cultivates tactical relationships with direct reports while actively engaging in strategic collaborations with immediate supervisor, other managers/senior staff and leadership across various departments. Establishes and nurtures a network of key contacts outside their immediate area of expertise. |
+| **Conflict Resolution** | Proactively idenitifies and resolves complex conflicts. Utilizes effective escalation paths to management and/or HR when necessary in a timely manner. |
+| **Self-Development** | Shows initiative by taking on responsibilities beyond their primary duties. Actively seeks opportunities to challenge themselves and their team. |
+| **Adaptability** | Consistently concentrates on what is in their control to steer change and influence outcomes. Digs into the why behind organizational decisions to better guide team adaptations. |
+| **Judgement** | Exercises sound judgement in all things. Recognizes the need to consider the best outcome for the company when considering decisions. |
+| **General Problem Solving** | Applies wide depth of knowledge to creatively address challenges and identify opportunities for innovation/impact. |
+
+
+<a name="senior_manager_autonomy"></a>
+### Autonomy
+###### [Jump to top](#main)
+| | | 
+| -- | -- |
+| **Expected Supervision** | Minimal supervision; increased independence. Shares progress reports with leadership and proactively identifies areas for improvement and/or potential challenges. |
+| **Influence on Work** | Determines methods and procedures on new assignments by considering the impact across the broader organization. Coordinates activities of direct reports, may influence activities of other teams and/or projects out of direct scope. |
+| **Resourcefulness** | Consistently prunes and maintains documentation for all projects. Leads by example to attend and promote internal and external training/learning opportunities; may coordinate team-wide and crossfunctional opportunities. |
+| **Delegation** | Effectively assigns work to direct team, optimizing the distribution of tasks based on team strengths and priorities. |
+| ** Prioritization** | Prioritizes work for self and direct reports while considering the impact at the organziational level. Proactively communicates updates on project statuses and potential challenges to team/manager as well as crossfunctional stakeholders. |
+
+
+<a name="senior_manager_teamwork"></a>
+### Teamwork
+###### [Jump to top](#main)
+| | | 
+| -- | -- |
+| **Feedback** | A go-to source for clear, actionable, and compassionate feedback to direct team members and peers. Comfortable delivering constructive feedback with support from leadership and HR. Actively solcitis and acts upon feedback to drive continuous improvement. |
+| **Communication** | Regular knowledge sharing with team. Communicates transparently and proactively with project stakeholders. Proficient in presentation skills, etiquette, and slide creation in various settings. Comfortable presenting to Kensho/S&P executives internally and externally with support. |
+| **Participation** | Consistently involved in and often leads team activities and discussions. Models the expected level of engagement, encouraging team participation and fostering skill development. |
+| **Go Team** | Acts as a champion of Kensho's culture and works to propel its vision forward, both internally and externally. Demonstrates a readiness to make sacrifices for the collective progress and success of the team and company overall. |
+
+<a name="senior_manager_people_management"></a>
+### People Management
+###### [Jump to top](#main)
+| | | 
+| -- | -- |
+| **Scope** | Manages a team of individuals. Strategically delegates tasks, considering both individual team members' development needs and project requirements. Demonstrates a strong understanding of when to be hands-on and when to guide from a higher level. Travels as needed to build stronger relationships with indirect & cross functional colleagues as well as own team. |
+| **Advocacy** | Champions the success of the team, proactively communicates notable achievements, ongoing challenges, and essential requirements to upper management, leadership, and relevant stakeholders. Recognizes and develops high performers, emphasizing their contributions and prioritizing their professional growth. |
+| **Talent Management** | Sets clear expectations, goals, and key performance goals to effectively manage performance. Identifies development opportunities, cultivating a culture of continuous improvement among team members. Takes proactive measures to address underperformance and seeks support from leadership and HR when needed. |
+| **Hiring** | Sets the standard for hiring, developing and engaging key talent within the team. Continuously refines hiring need and recruiting strategies to align with evolving business needs; partners closely with Recruiting on sourcing and identifying key talent. |
+| **Planning** | Develops goals, outcomes, and project planning for direct team. Coordinates and directs multiple concurent projects. May provide strategic input on project plans outside of direct team scope and/or at the organizational level. |
+| **Change Management** | Proactively seeks to understand the reasons behind changes and communicate the implications to the team. Collaborates with leadership and HR to guide the team through transitions effectively. Understands how to effectively responds to questions, escalates issues, and foster a team culture of resilience and adaptability. |
 
 
 <a name="director"></a>
