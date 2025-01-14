@@ -120,7 +120,7 @@
 | **Influence on Work** | Determines methods and procedures on new assignments by considering the impact across the broader organization. Coordinates activities of direct reports, may influence activities of other teams and/or projects out of direct scope. |
 | **Resourcefulness** | Consistently prunes and maintains documentation for all projects. Leads by example to attend and promote internal and external training/learning opportunities; may coordinate team-wide and crossfunctional opportunities. |
 | **Delegation** | Effectively assigns work to direct team, optimizing the distribution of tasks based on team strengths and priorities. |
-| ** Prioritization** | Prioritizes work for self and direct reports while considering the impact at the organziational level. Proactively communicates updates on project statuses and potential challenges to team/manager as well as crossfunctional stakeholders. |
+| **Prioritization** | Prioritizes work for self and direct reports while considering the impact at the organziational level. Proactively communicates updates on project statuses and potential challenges to team/manager as well as crossfunctional stakeholders. |
 
 
 <a name="senior_manager_teamwork"></a>
